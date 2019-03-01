@@ -14,7 +14,7 @@
     "serverless",
     "enterprise"
   ],
-  "author": "Serverless, Inc <service@serverless.com>",
+  "author": "Me",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/serverless/enterprise-template/issues"
